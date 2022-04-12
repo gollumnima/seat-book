@@ -1,7 +1,7 @@
 const colors = {
-  activate: '#4b7bec',
-  disabled: '#bdbdbd',
-  fixed: '#fc5c65',
+  IMMUTABLE: '#fc5c65',
+  BOOKEDOUT: '#bdbdbd',
+  BOOKABLE: '#4b7bec',
 };
 
 const theme = {
