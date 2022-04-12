@@ -5,9 +5,10 @@ const routes = [
   {
     path: '/',
     element: <Main />,
-    children: [
-      { path: '/reservation', element: <Reservation /> },
-    ],
+  },
+  {
+    path: '/reservation',
+    element: <Reservation />,
   },
 ];
 

@@ -1,9 +1,7 @@
 import ReservationForm from 'components/ResservationForm/index';
 
-const Register = () => {
-  return(
-    <ReservationForm />
-  )
-}
+const Register = () => (
+  <ReservationForm />
+);
 
 export default Register;
